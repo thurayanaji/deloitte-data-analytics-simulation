@@ -1,2 +1,24 @@
-# deloitte-data-analytics-simulation
-Completed Deloitte’s Data Analytics Job Simulation on Forage, performing data cleaning, classification, and analysis using Excel. Developed a Tableau dashboard to visualise key insights and support business decision-making. Demonstrated skills in data interpretation, reporting, and analytical problem-solving.
+# Deloitte Data Analytics Job Simulation (Forage)
+
+## Overview
+Completed a Deloitte job simulation involving data analysis and forensic technology.
+
+## Tools Used
+- Excel
+- Tableau
+
+## Key Tasks
+- Cleaned and analysed datasets using Excel
+- Classified data and identified business insights
+- Built an interactive Tableau dashboard
+
+## Key Insights
+- Identified trends and patterns in the dataset
+- Supported business decision-making with data-driven insights
+
+## Files
+- Excel dataset and analysis
+- Tableau dashboard (or screenshots)
+
+## Source
+Forage Virtual Experience Program
